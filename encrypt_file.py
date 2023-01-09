@@ -2,7 +2,7 @@ import argparse
 
 parser = argparse.ArgumentParser(
                     prog = 'encrypt.py',
-                    description = 'This tool encrypts all files',
+                    description = 'This tool encrypts all kinds of files',
                     epilog = 'Thanks for using this piece of code')
 
 
