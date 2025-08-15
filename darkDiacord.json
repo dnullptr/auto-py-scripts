@@ -1,0 +1,52 @@
+{
+  "name": "Rose Pine Dark Pink",
+  "description": "A dark theme with pink highlights.",
+  "authors": [
+    {
+      "name": "Rose Pine",
+      "id": "rose-pine"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": "#1A1A1A",
+    "BACKGROUND_SECONDARY": "#222222",
+    "BACKGROUND_TERTIARY": "#2A2A2A",
+    "BACKGROUND_ACCENT": "#3A3A3A",
+    "BACKGROUND_FLOATING": "#242424",
+    "BACKGROUND_MENTIONED": "#3A2A2A",
+    "BACKGROUND_MENTIONED_HOVER": "#4A2A2A",
+    "BACKGROUND_MESSAGE_HOVER": "#292929",
+    "CHANNEL_TEXT_AREA_BACKGROUND": "#1A1A1A",
+    "CHANNEL_TEXT_AREA_BORDER": "#3F3F3F",
+    "TEXT_NORMAL": "#E0E0E0",
+    "TEXT_MUTED": "#A0A0A0",
+    "TEXT_LINK": "#b4637a",
+    "TEXT_BRAND": "#b4637a",
+    "TEXT_POSITIVE": "#7FBF7F",
+    "TEXT_WARNING": "#F4BF75",
+    "TEXT_DANGER": "#FF5F5F",
+    "TEXT_ACCENT": "#b4637a",
+    "INFO_ACCENT_TEXT": "#b4637a",
+    "TEXT_SELECTION": "#b4637a",
+    "MENTION_FOREGROUND": "#FFFFFF",
+    "MENTION_BACKGROUND": "#b4637a",
+    "SCROLLBAR_THUMB": "#3F3F3F",
+    "SCROLLBAR_THUMB_HOVER": "#5F5F5F",
+    "BRAND_EXPERIMENTAL": "#b4637a",
+    "BACKGROUND_MODIFIER_ACCENT": "#4A2A2A"
+  },
+  "rawColors": {
+    "PRIMARY_100": "#b4637a",
+    "PRIMARY_200": "#A35372",
+    "PRIMARY_300": "#923369",
+    "PLUM_1": "#b4637a",
+    "PLUM_2": "#7A2B4F",
+    "PLUM_3": "#5A1E37"
+  },
+  "plus": {
+    "OVERLAY_ALPHA": 0.9,
+    "MENTION_LINE": "#b4637a",
+    "BUTTON_ICON": "#E0E0E0"
+  },
+  "spec": 2
+}
